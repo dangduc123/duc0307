@@ -1,0 +1,14 @@
+D:\LaptrinhC#\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.exe
+D:\LaptrinhC#\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.deps.json
+D:\LaptrinhC#\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.json
+D:\LaptrinhC#\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.dev.json
+D:\LaptrinhC#\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.dll
+D:\LaptrinhC#\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.pdb
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csproj.AssemblyReference.cache
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfoInputs.cache
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfo.cs
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csproj.CoreCompileInputs.cache
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.dll
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.pdb
+D:\LaptrinhC#\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.genruntimeconfig.cache

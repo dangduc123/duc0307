@@ -1,0 +1,14 @@
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\bin\Debug\netcoreapp3.1\dienTichHinhTron.exe
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\bin\Debug\netcoreapp3.1\dienTichHinhTron.deps.json
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\bin\Debug\netcoreapp3.1\dienTichHinhTron.runtimeconfig.json
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\bin\Debug\netcoreapp3.1\dienTichHinhTron.runtimeconfig.dev.json
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\bin\Debug\netcoreapp3.1\dienTichHinhTron.dll
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\bin\Debug\netcoreapp3.1\dienTichHinhTron.pdb
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.csproj.AssemblyReference.cache
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.AssemblyInfoInputs.cache
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.AssemblyInfo.cs
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.csproj.CoreCompileInputs.cache
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.dll
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.pdb
+D:\LaptrinhC#\dienTichHinhTron\dienTichHinhTron\obj\Debug\netcoreapp3.1\dienTichHinhTron.genruntimeconfig.cache

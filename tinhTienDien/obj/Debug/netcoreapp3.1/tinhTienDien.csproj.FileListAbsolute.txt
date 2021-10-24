@@ -1,0 +1,14 @@
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\bin\Debug\netcoreapp3.1\tinhTienDien.exe
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\bin\Debug\netcoreapp3.1\tinhTienDien.deps.json
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\bin\Debug\netcoreapp3.1\tinhTienDien.runtimeconfig.json
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\bin\Debug\netcoreapp3.1\tinhTienDien.runtimeconfig.dev.json
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\bin\Debug\netcoreapp3.1\tinhTienDien.dll
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\bin\Debug\netcoreapp3.1\tinhTienDien.pdb
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.csproj.AssemblyReference.cache
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.AssemblyInfoInputs.cache
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.AssemblyInfo.cs
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.csproj.CoreCompileInputs.cache
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.dll
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.pdb
+D:\LaptrinhC#\tinhTienDien\tinhTienDien\obj\Debug\netcoreapp3.1\tinhTienDien.genruntimeconfig.cache
