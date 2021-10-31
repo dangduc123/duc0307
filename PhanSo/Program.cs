@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace PhanSo
 {
@@ -37,6 +37,7 @@ namespace PhanSo
                 Console.WriteLine("{0}/{1}", TuSo, MauSo);
             }
 
+
             public int UCLN(int a,int b)
             {
                 while (a != b)
@@ -58,17 +59,58 @@ namespace PhanSo
                     p.MauSo /= u;
                 }
                 return p;
-            }   
+            }  
+        }
+
+
+        class mangPhanSo
+        {
+            phanSo[] a;
+            phanSo[] p;
+            int n;
+
+            public mangPhanSo()//hàm khởi tạo
+            {
+                a = new phanSo[100];
+            }
+
+
+            public void NhapMang()
+            {
+                Console.WriteLine("\nNhap vao so luong phan so:");
+                n = int.Parse(Console.ReadLine());
+                for(int i = 0;i < n;i++)
+                {
+                    Console.WriteLine("\nNhap vao phan so thu {0}", i + 1);
+                    a[i] = new phanSo();
+                    a[i].Nhap();
+                }    
+            }
+
+            public void XuatMang()
+            {
+                for (int i = 0; i < n; i++)
+                    a[i].Xuat();
+            }
+
+            public void PhanSoToiGian()
+            {
+                for(int i = 0;i<n;i++)
+                {
+                    a[i].ToiGian(a[i]);
+                }    
+            }
+
         }
         static void Main(string[] args)
         {
-            phanSo p = new phanSo();
-            p.Nhap();
+            mangPhanSo p = new mangPhanSo();
+            p.NhapMang();
             Console.WriteLine("\nPhan so vua nhap la:");
-            p.Xuat();
+            p.XuatMang();
             Console.WriteLine("\nPhan so sau khi rut gon la:");
-            p.ToiGian(p);
-            p.Xuat();
+            p.PhanSoToiGian();
+            p.XuatMang();
             Console.ReadKey();
         }
     }
