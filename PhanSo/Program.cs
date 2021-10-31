@@ -66,7 +66,6 @@ namespace PhanSo
         class mangPhanSo
         {
             phanSo[] a;
-            phanSo[] p;
             int n;
 
             public mangPhanSo()//hàm khởi tạo
